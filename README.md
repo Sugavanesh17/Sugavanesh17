@@ -18,7 +18,11 @@
   <a href="https://github.com/sugavanesh17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sugavaneshwaran-s-48b482291/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/sugavanesh37/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50"/></a>
+  <a href="https://drive.google.com/drive/folders/1G8nXPKqzLvJGILHn-LJDQBA6qFMzgX1o?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="Resume"/>
+  </a>
 </p>
+
 
 ---
 
