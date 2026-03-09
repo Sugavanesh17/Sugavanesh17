@@ -66,9 +66,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      <b>GitHub Streak</b><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sugavanesh17&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" height="192px"/>
-    </td>
+  <b>GitHub Streak</b><br/>
+  <img src="https://streak-stats.demolab.com?user=Sugavanesh17&theme=algolia&hide_border=true" height="192px"/>
+</td>
     <td colspan="2" align="center">
       <b>LeetCode Heatmap</b><br/>
       <img src="https://leetcard.jacoblin.cool/sugavanesh37?ext=heatmap" />
