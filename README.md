@@ -67,7 +67,7 @@
   <tr>
     <td align="center">
       <b>GitHub Streak</b><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=sugavanesh17&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sugavanesh17&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" height="192px"/>
     </td>
     <td colspan="2" align="center">
       <b>LeetCode Heatmap</b><br/>
@@ -87,7 +87,7 @@
   </a>
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Map
 
 <p align="center">
   <picture>
