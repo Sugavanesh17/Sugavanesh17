@@ -89,4 +89,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Sugavanesh17/Sugavanesh17/output/github-contribution-grid-snake.svg)
