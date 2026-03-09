@@ -87,7 +87,7 @@
   </a>
 </p>
 
-## 🐍 Contribution Map
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
