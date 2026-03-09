@@ -86,3 +86,7 @@
     <img alt="Sugavaneshwaran's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sugavanesh17&custom_title=Sugavaneshwaran%20S's%20Contribution%20Graph&theme=react-dark" />
   </a>
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
